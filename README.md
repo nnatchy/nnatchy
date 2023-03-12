@@ -1,7 +1,7 @@
 Hi 👋 My name is Natch !
 ========================
 
-I'm sophomore in computer engineering at Chulalongkorn University who are interested in web development (back-end)
+I'm currently a sophomore in computer engineering at Chulalongkorn University who are interested in web development (back-end)
 
 ![Alt Text](https://camo.githubusercontent.com/29eb556dfa9bda28027f8632241d94c62100e20508a19d0bc27fb925dfcc6903/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f66362f38392f31616636383964343262646237363836646634343466323239323566396538392e676966)
 
