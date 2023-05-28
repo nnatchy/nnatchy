@@ -11,10 +11,11 @@ I'm a sophomore Computer Engineering student at Chulalongkorn University, with a
 * ⚡  Gym rats 🦾
 
 # My GitHub Stats
+<p align="center">
+    <a href="http://www.github.com/nnatchy"><img src="https://github-readme-stats.vercel.app/api?username=nnatchy&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="nnatchy's GitHub stats" /></a>
+    <a href="https://github.com/nnatchy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnatchy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
-<a href="http://www.github.com/nnatchy"><img src="https://github-readme-stats.vercel.app/api?username=nnatchy&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="nnatchy's GitHub stats" /></a>
-
-<a href="https://github.com/nnatchy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnatchy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 # 💻Languages
 
@@ -49,6 +50,8 @@ I'm a sophomore Computer Engineering student at Chulalongkorn University, with a
 
 ### Have studied but not revised yet
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # 🛠️Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
