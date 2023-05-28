@@ -7,7 +7,7 @@ I'm a sophomore Computer Engineering student at Chulalongkorn University, with a
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [natchjirawat@gmail.com](mailto:natchjirawat@gmail.com)
-* 🧠  I'm learning algorithm and Golang for web development
+* 🧠  I'm currently focused on improving my proficiency in Golang.
 * ⚡  Gym rats 🦾
 
 # My GitHub Stats
@@ -22,11 +22,6 @@ I'm a sophomore Computer Engineering student at Chulalongkorn University, with a
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnatchy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=090415&border_color=ffffff&hide_border=false&locale=en&custom_title=Most%20Languages%20Used" alt="Most Languages Used" />
     </a>
 </p>
-
-
-
-
-
 
 # 💻Languages
 
